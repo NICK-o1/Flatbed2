@@ -1,5 +1,5 @@
 # Flatbed2
-custom edit of vanilla flatbed tow truck
+custom edit of vanilla flatbed tow truck  got it from gtav mods
 
 for fivem servers
 
